@@ -1,0 +1,4 @@
+# **Results**
+
+As we see in the previous table 43, the classifier that has the sensitivity is the SVM classifier. This classifier shows the highest sensitivity value of 0.9439, which is good to predict the correctly identified cars run above 40 mph out of all the all cars predicted as vehicles run above the official speed limit. Even, this model shows a fair precision of 0.6804 which represents the proportion of cars predicted as car exceeds 40 mph which are indeed exceeding the speed limit.
+Finally, we can conclude that our SVM model is able to predict trends of traffic speed at the intersection of La Mar Boulevard and Menchaca by using the best selected features Year, Hour, Occupancy and Volume.
