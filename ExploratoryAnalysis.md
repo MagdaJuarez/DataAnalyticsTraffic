@@ -651,8 +651,8 @@ Table 41. Summary of prior probabilities of traffic data set
 
 Class |	Class name | 	Count |	%
 --------|--------|--------|--------
-Class1 |	Car run at average speed above 40 mph |	18186 |	4.153002969
-Class2 |	Car run at average speed below 40 mph |	419714 |	95.84699703
+Class1 |	Car run at average speed above 40 mph |	18186 |	4.15
+Class2 |	Car run at average speed below 40 mph |	419714 |	95.85
 
 </center>
 
